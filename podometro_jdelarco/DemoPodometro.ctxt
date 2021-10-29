@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DemoPodometro
+comment0.text=\r\n\ \r\n\ \ Clase\ para\ testear\ la\ clase\ Podometro\r\n\ \ \r\n
+comment1.params=
+comment1.target=DemoPodometro()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ DemoPodometro\r\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment2.text=\r\n\ \ Configurar\ el\ pod\u00F3metro\ y\ registrar\ todas\ las\ caminatas\r\n\ \ \r\n
+comment3.params=
+comment3.target=void\ printMarca()
+comment4.params=altura\ sexo
+comment4.target=void\ configurar(double,\ char)
+comment5.params=pasos\ dias\ horasInicio\ horasFin
+comment5.target=void\ registrarCaminatas(int[],\ int[],\ int[],\ int[])
+comment5.text=\r\n\ registrar\ los\ recorridos\ realizados\ en\ el\ pod\u00F3metro\r\n
+comment6.params=
+comment6.target=void\ mostrarEstadisticas()
+comment7.params=
+comment7.target=void\ pausa()
+comment7.text=\r\n\ \ hacer\ una\ pausa\r\n
+numComments=8
